@@ -41,7 +41,7 @@
     top: 220px;
     left: 100px;
     text-align: center;
-    width: 80%;
+    width: 90%;
 
 }
 .content h1{
@@ -49,14 +49,14 @@
     font-size: 50px;
     color: white;
     text-align: center;
-    margin-right: 150px;
+    margin-right: 180px;
 }
 .content h1 span{
     color: #f9004d;
 }
 .content h3{
     color: white;
-    margin-right: 120px;
+    margin-right: 170px;
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
@@ -67,13 +67,13 @@
     letter-spacing: 2px;
     text-transform: capitalize;
     padding: 10px 0px;
-    margin-right: 130px;
+    margin-right: 200px;
 }
 .content p{
     color: white;
     text-align: center;
-    width: 330px;
-    font-size: 23px;
+    width: 300px;
+    font-size: 20px;
     text-transform: capitalize;
     margin-bottom: 10px;
 }
@@ -86,7 +86,7 @@
     border-radius: 5px;
     border: 2px solid white;
     transition: all 0.6s ease-in-out;
-    margin-right: 100px;
+    margin-right: 180px;
 
 }
 .content .main-btn a:hover{
@@ -108,7 +108,7 @@
 }
 .about-txt{
     padding-top: 30px;
-    width: 550px;
+    width: 600px;
 
 }
 .main{
@@ -131,13 +131,13 @@
     text-transform: capitalize;
 }
 .about-txt p{
-    /* width: 450px; */
+    width: 600px;
     color: white;
     text-align: center;
     letter-spacing: 1.5;
     line-height: 28px;
-    font-size: 21px;
-    padding: 10px 55px;
+    font-size: 22px;
+    padding: 10px 125px;
 }
 .service{
     background-color: #191919;
@@ -208,7 +208,8 @@
 }
 .contact p{
     color: white;
-    font-size: 25px;
+    padding: 10px 10px;
+    font-size: 23px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
