@@ -41,20 +41,22 @@
     top: 220px;
     left: 100px;
     text-align: center;
-    width: 70%;
+    width: 80%;
 
 }
 .content h1{
     text-transform: capitalize;
     font-size: 50px;
     color: white;
-    margin: 10px 0px;
+    text-align: center;
+    margin-right: 150px;
 }
 .content h1 span{
     color: #f9004d;
 }
 .content h3{
     color: white;
+    margin-right: 120px;
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
@@ -65,11 +67,12 @@
     letter-spacing: 2px;
     text-transform: capitalize;
     padding: 10px 0px;
+    margin-right: 130px;
 }
 .content p{
     color: white;
     text-align: center;
-    width: 350px;
+    width: 330px;
     font-size: 23px;
     text-transform: capitalize;
     margin-bottom: 10px;
@@ -83,6 +86,7 @@
     border-radius: 5px;
     border: 2px solid white;
     transition: all 0.6s ease-in-out;
+    margin-right: 100px;
 
 }
 .content .main-btn a:hover{
@@ -99,7 +103,7 @@
     align-items: center;
 }
 .about img{
-    width: 400px;
+    width: 350px;
     border-radius: 350px;
 }
 .about-txt{
@@ -130,10 +134,10 @@
     /* width: 450px; */
     color: white;
     text-align: center;
-    letter-spacing: 1px;
-    line-height: 25px;
-    font-size: 20px;
-    padding: 0px 40px;
+    letter-spacing: 1.5;
+    line-height: 28px;
+    font-size: 21px;
+    padding: 10px 55px;
 }
 .service{
     background-color: #191919;
@@ -204,8 +208,7 @@
 }
 .contact p{
     color: white;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 25px;
     text-transform: capitalize;
     margin-bottom: 20px;
 }
@@ -238,23 +241,22 @@
 .footer h3{
     font-size: 40px;
     color: white;
-    margin: 20px 0px;
+    margin: 20px 20px;
     text-transform: capitalize;
-    letter-spacing: 1px;
-    font-weight: bold;
+    letter-spacing: 1;
 }
 .footer p{
     color: white;
     text-transform: capitalize;
     text-align: center;
-    width: 400px;
+    width: 350px;
     font-size: 20px;
     line-height: 26px;
     margin-bottom: 10px;
 }
 .icons{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
 
 }
 .icons a {
