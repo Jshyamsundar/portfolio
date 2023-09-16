@@ -39,7 +39,7 @@
 .content{
     position: absolute;
     top: 220px;
-    left: 100px;
+    /* left: 100px; */
     text-align: center;
     width: 90%;
 
